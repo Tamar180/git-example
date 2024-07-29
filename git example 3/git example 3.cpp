@@ -18,6 +18,7 @@ int main()
     std::cout << "good afternoon tamar!\n";
     std::cout << "good afternoon sarah!\n";
     std::cout << "good afternoon zipi!\n";
+    std::cout << "zipi zipi zipi\n";
 
 }
 
