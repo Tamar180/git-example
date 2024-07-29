@@ -9,6 +9,8 @@ int main()
     std::cout << "good morning Zipi!\n";
     std::cout << "good morning Sari!\n";
     std::cout << "good morning Tamar!\n";
+    std::cout << "good morning everyone!\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
