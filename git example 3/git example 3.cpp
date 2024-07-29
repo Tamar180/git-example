@@ -11,8 +11,13 @@ int main()
     std::cout << "god morning Tamar!\n";
     std::cout << "goood morning everyone!\n";
     std::cout << "good afternoon everyone!\n";
+    std::cout << "good afternoon zipora!\n";
     std::cout << "good afternoon Tamar!\n";
     std::cout << "good afternoon Sari!\n";
     std::cout << "good afternoon Zipi!\n";
+    std::cout << "good afternoon tamar!\n";
+    std::cout << "good afternoon sarah!\n";
+    std::cout << "good afternoon zipi!\n";
+    std::cout << "zipi zipi zipi\n";
 
 }
